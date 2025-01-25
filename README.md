@@ -1,4 +1,4 @@
-# Tailwind CSS Learning Projects
+# Learning Tailwind CSS 
 
 This repository contains projects and exercises to help me learn and master Tailwind CSS, a utility-first CSS framework. The goal is to build reusable components, responsive layouts, and visually appealing designs while gaining hands-on experience.
 
